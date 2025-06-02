@@ -1,4 +1,3 @@
-// Só controla o menu em telas pequenas
 document.addEventListener("DOMContentLoaded", function () {
   var toggle = document.getElementById("toggle");
   var nav = document.querySelector(".nav");
